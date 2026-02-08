@@ -12,6 +12,7 @@ Berikut struktur yang digunakan:
 - Discount Amount: Subtotal * (Discount / 100); (Calculated)
 - Total Sales: Subtotal - Discount Amount; (Calculated)
 - Shipping Fee:	Biaya pengiriman
+- Grand Total: Total Sales + Shipping Fee; (Calculated)
 - Payment Method:	Metode pembayaran yang digunakan
 - Order Status: Status pengiriman/pesanan (Calculated)
 - Platform:	Marketplace/Tempat penjualan
